@@ -1,0 +1,6 @@
+E:\My Space\TelerikCourse\Visual Studio All Projects\SnakeJS\SnakeJS\bin\SnakeJS.dll.config
+E:\My Space\TelerikCourse\Visual Studio All Projects\SnakeJS\SnakeJS\bin\SnakeJS.dll
+E:\My Space\TelerikCourse\Visual Studio All Projects\SnakeJS\SnakeJS\bin\SnakeJS.pdb
+E:\My Space\TelerikCourse\Visual Studio All Projects\SnakeJS\SnakeJS\obj\Debug\SnakeJS.csprojResolveAssemblyReference.cache
+E:\My Space\TelerikCourse\Visual Studio All Projects\SnakeJS\SnakeJS\obj\Debug\SnakeJS.dll
+E:\My Space\TelerikCourse\Visual Studio All Projects\SnakeJS\SnakeJS\obj\Debug\SnakeJS.pdb
